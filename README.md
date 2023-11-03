@@ -1,8 +1,16 @@
-# React + Vite
+# CRM Administracion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React project with Vite, React Router DOM, Tailwind CSS, and JSON-Server
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a web application built with React, Vite, React Router DOM, Tailwind CSS, and JSON-Server. It showcases how to create a modern and responsive web application with client-side routing, styling, and a mock backend using JSON-Server.
+
+## Features
+
+- React for building dynamic user interfaces.
+- Vite for fast development and optimized builds.
+- React Router DOM for client-side routing.
+- Tailwind CSS for efficient and responsive styling.
+- JSON-Server for creating a mock backend with REST APIs.
+- A clean and organized project structure.
